@@ -1,0 +1,7 @@
+diamond = """   *
+  * *
+ *   *
+  * *
+   *"""
+
+print(diamond)
